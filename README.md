@@ -10,7 +10,7 @@ I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer
 - 🎮 Working on **solo indie games** 
 - 🌱 Currently learning **advanced C++**, **backend development**, and **game architecture**  
 - 🖥️ Building projects in **React**, **Flask**, and **Python**  
-- 🔧 Interested in **IoT**, **AI/ML**, and **Genetic Algorithms**  
+- 🔧 Interested in **IoT**, **Cloud**, and **Game Development**  
 
 ---
 
