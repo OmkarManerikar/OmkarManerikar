@@ -1,5 +1,6 @@
-# Hi there, I'm Omkar 👋  
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 Welcome to my GitHub profile!  
 I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer**,who loves to build, break, and rebuild things until they work perfectly.  
 
