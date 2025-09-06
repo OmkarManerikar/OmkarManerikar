@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20Everyone&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello%20Everyone&fontSize=90" />
 Welcome to my GitHub profile!
 
 I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer**,who loves to build, break, and rebuild things until they work perfectly.  
