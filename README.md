@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 Welcome to my GitHub profile!  
 I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer**,who loves to build, break, and rebuild things until they work perfectly.  
 
