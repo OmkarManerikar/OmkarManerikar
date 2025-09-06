@@ -20,7 +20,7 @@ I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer
 `C++` `Python` `JavaScript` `HTML` `CSS`
 
 **Frameworks & Tools:**  
-`React` `Flask` `Node.js` `Express` `TailwindCSS` `Bootstrap`
+`GODOT`  `React` `Flask` `Node.js` `Express` `TailwindCSS`  `Ursina`
 
 **Databases:**  
 `MongoDB` `MySQL` 
