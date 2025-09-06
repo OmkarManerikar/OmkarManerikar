@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Omkar 👋  
 
-<!--
-**OmkarManerikar/OmkarManerikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a just another **Software Engineer**, and an aspiring **Indie Game Developer**,who loves to build, break, and rebuild things until they work perfectly.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🎮 Working on **solo indie games** 
+- 🌱 Currently learning **advanced C++**, **backend development**, and **game architecture**  
+- 🖥️ Building projects in **React**, **Flask**, and **Python**  
+- 🔧 Interested in **IoT**, **AI/ML**, and **Genetic Algorithms**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`C++` `Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Tools:**  
+`React` `Flask` `Node.js` `Express` `TailwindCSS` `Bootstrap`
+
+**Databases:**  
+`MongoDB` `MySQL` 
+
+**Other Tools:**  
+`Git` `GitHub` `Postman` `Figma` `Docker`
